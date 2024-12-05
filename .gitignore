@@ -1,0 +1,53 @@
+# Environment files
+.env
+.venv/
+venv/
+env/
+
+# IDE settings
+.idea/
+.vscode/
+*.iml
+*csv
+
+# Vector databases
+chroma_db/
+chroma_db_non_vul/
+*.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Logs and databases
+*.log
+*.sqlite
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+*csv
